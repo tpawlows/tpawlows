@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Tomasz.
-- 👀 I’m interested in cloud technologies 
-- 🌱 I’m currently learning AWS and microservices.
+- 👋 Hello, I’m Tomasz.
+- 👀 I mainly focus on Cloud, DevOps and Benchmarks.
+- 🌱 I’m expanding my knowledge in Cloud and related stuff.
 
 
 <!---
