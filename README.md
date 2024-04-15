@@ -1,6 +1,6 @@
 - 👋 Hello, I’m Tomasz.
-- 👀 I mainly focus on Cloud, DevOps and Benchmarks.
-- 🌱 I’m expanding my knowledge in Cloud and related stuff.
+- 👀 I am interested in Cloud Computing, Artificial Intelligence and Cybersecurity.
+- 🌱 I’m continuously expanding my knowledge in areas mentioned above.
 - :medal_sports: [Credly](https://www.credly.com/users/tomaszpawlowski)
 
 <!---
